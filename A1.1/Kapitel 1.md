@@ -15,5 +15,13 @@ wo wohnst du? -> Ich wohne in Kuala Lumpur Stadt
 + what your job:<br>
 Was ist dein Beruf? -> Ich bin Programmiererin. 
 
+## Begrüßung und Abschied
++ Guten Morgen: Good morning
++ Guten Abend: Good evening
++ Gute Nächt: Good night
++ Guten Tag: Good day.
 
+Goodbye:<br>
++ Auf Widersehen (Formell)
++ Tschüss (Informell)
 
