@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=XxonBXlEEp0
 
 ## Das alphabet
 + https://www.youtube.com/watch?v=xYuPIQMvEsg
-+ Âm khó: ü, ö, r
++ Difficult: ü, ö, r
 + ü: https://www.youtube.com/watch?v=X-h4tC7-mPc
 + r: https://www.youtube.com/watch?v=i5DgUuCIHc0
 + ö: https://www.youtube.com/watch?v=VhUQvrnNtWo
