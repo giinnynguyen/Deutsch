@@ -45,3 +45,11 @@ Vorname
 -> Sehr gut, danke. Und Ihnen?<br>
 -> Gut, danke. Und dir?<br>
 -> Danke, nicht so gut.
+
+## Verabschiedung
++ Bis dann!
++ Bis später
++ Bis nachher
++ Bis bald
++ Bis morgen
++ Bis gleich!
