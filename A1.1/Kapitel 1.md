@@ -56,3 +56,7 @@ Vorname
 
 ## Satzmelodie
 https://www.youtube.com/watch?v=XxonBXlEEp0
+
+## Das alphabet
++ https://www.youtube.com/watch?v=xYuPIQMvEsg
++ Âm khó: ü, ö, r
