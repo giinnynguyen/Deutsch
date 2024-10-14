@@ -38,10 +38,10 @@ Vorname
 - Wie geht es Ihnen? (Formelle)
 - Wie geht es dir? (Informelle)
 
--> Mir geht es sehr gut/Es geht mir sehr gut
--> Mir geht es gut/Es geht mir gut
--> Es geht so
--> Mir geht es nicht gut
--> Sehr gut, danke. Und Ihnen?
--> Gut, danke. Und dir?
+-> Mir geht es sehr gut/Es geht mir sehr gut<br>
+-> Mir geht es gut/Es geht mir gut<br>
+-> Es geht so<br>
+-> Mir geht es nicht gut<br>
+-> Sehr gut, danke. Und Ihnen?<br>
+-> Gut, danke. Und dir?<br>
 -> Danke, nicht so gut.
