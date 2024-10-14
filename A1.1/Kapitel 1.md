@@ -53,3 +53,6 @@ Vorname
 + Bis bald
 + Bis morgen
 + Bis gleich!
+
+## Satzmelodie
+https://www.youtube.com/watch?v=UT7zyxOY1wk
