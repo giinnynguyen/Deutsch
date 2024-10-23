@@ -66,9 +66,9 @@ https://www.youtube.com/watch?v=XxonBXlEEp0
 + ö: https://www.youtube.com/watch?v=VhUQvrnNtWo
 
 ## Die Zahlen
-| 0-9    | 11-19 | 10 - 100 |
+| 0-9    | 10-19 | 20 - 100 |
 | -------- | ------- | ------- |
-| 0 - null |   | 10 - zehn |
+| 0 - null |  10 - zehn  | |
 | 1 - eins |  11 - elf |   20 - zwanzig|
 | 2 - zwei | 12 - zwölf  | 30 - dreißig|
 | 3 - drei |   13 - dreizehn  | 40 - vierzig|
