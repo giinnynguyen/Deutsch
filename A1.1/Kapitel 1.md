@@ -59,7 +59,21 @@ https://www.youtube.com/watch?v=XxonBXlEEp0
 
 ## Das alphabet
 + https://www.youtube.com/watch?v=xYuPIQMvEsg
-+ Difficult: ü, ö, r
++ Pay attention: ü, ö, r, z
 + ü: https://www.youtube.com/watch?v=X-h4tC7-mPc
 + r: https://www.youtube.com/watch?v=i5DgUuCIHc0
 + ö: https://www.youtube.com/watch?v=VhUQvrnNtWo
+
+## Die Zahlen
+| 0-9    | 11-19 | 10 - 100 |
+| -------- | ------- | ------- |
+| 0 - null |   | 10 - zehn |
+| 1 - eins |  11 - elf |   20 - zwanzig|
+| 2 - zwei | 12 - zwölf  | 30 - dreißig|
+| 3 - drei |   13 - dreizehn  | 40 - vierzig|
+| 4 - vier |  14 - vierzehn | 50 - fünfzig |
+| 5 - fünf |  15 - fünfzehn | 60 - sechzig |
+| 6 - sechs|   16 - sechzehn| 70 - siebszig |
+| 7 - sieben|   17 - siebzehn  | 80 - achtzig |
+| 8 - acht|   18 - achtzehn | 90 - neunzig |
+| 9 - neun  |   19 - neunzehn  | 100 - einhundert|
