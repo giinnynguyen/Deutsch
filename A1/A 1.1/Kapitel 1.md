@@ -1,4 +1,4 @@
-## Kennenzulernen
+## Sich vorstellen
 + Asking name:
 
 | Formell    | Informell | Anworten |
