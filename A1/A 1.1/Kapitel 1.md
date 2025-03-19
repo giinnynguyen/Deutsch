@@ -15,6 +15,10 @@ woher kommst du? -> Ich komme aus Vietnam, genauer aus ĐN<br>
 wo wohnst du? -> Ich wohne in Ho Chi Minh Stadt
 + what your job:<br>
 Was ist dein Beruf? -> Ich bin Programmiererin. 
++ what your language:<br>
+Welche Sprache sprichst du? -> Ich spreche Deutsch und English
++ Do you speak German:<br>
+Sprichst du Deutsch? -> Ja, ich spreche Deutsch
 
 ## Begrüßung und Abschied
 + Guten Morgen: Good morning
