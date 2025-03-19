@@ -82,3 +82,6 @@ https://www.youtube.com/watch?v=XxonBXlEEp0
 | 7 - sieben|   17 - siebzehn  | 80 - achtzig |
 | 8 - acht|   18 - achtzehn | 90 - neunzig |
 | 9 - neun  |   19 - neunzehn  | 100 - einhundert|
+
+## Common sentence
++ Vielen Dank: many thanks
