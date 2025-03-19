@@ -30,16 +30,7 @@ Goodbye:<br>
 + Auf Widersehen (Formell)
 + Tschüss (Informell)
   
-## Formelle Begrüßung/Informelle Begrüßung
-**Formelle** <br>
-- Sử dụng khi nói với người lớn lần đầu gặp, với đối tác, ở cơ quan nhà nước và khi mua sắm <br>
-Herr/Frau + Nachname
-
-**Informelle** <br>
-- Dùng với gia đình, bạn bè, người quen, đồng nghiệp thân thiết <br>
-Vorname
-
-## Wie's geht?
+#### Wie's geht?
 - Wie geht es Ihnen? (Formelle)
 - Wie geht es dir? (Informelle)
 
@@ -50,6 +41,15 @@ Vorname
 -> Sehr gut, danke. Und Ihnen?<br>
 -> Gut, danke. Und dir?<br>
 -> Danke, nicht so gut.
+
+## Formelle Begrüßung/Informelle Begrüßung
+**Formelle** <br>
+- Sử dụng khi nói với người lớn lần đầu gặp, với đối tác, ở cơ quan nhà nước và khi mua sắm <br>
+Herr/Frau + Nachname
+
+**Informelle** <br>
+- Dùng với gia đình, bạn bè, người quen, đồng nghiệp thân thiết <br>
+Vorname
 
 ## Verabschiedung
 + Bis dann!
