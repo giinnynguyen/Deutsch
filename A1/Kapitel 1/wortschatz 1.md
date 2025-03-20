@@ -2,6 +2,7 @@
 der Name,-n: name <br>
 der Vorname,-n: first name<br>
 der Nachname,-n: last name<br>
+der Spitname,-n: nick name<br>
 vorstellen: introduce<br>
 
 
