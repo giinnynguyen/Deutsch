@@ -1,7 +1,7 @@
 # Chọn phương pháp thực hành
 ### 1. Nguyên tắc:
 Học ngoại ngữ là quá trình tạo phản xạ với ngôn ngữ đó, hình thành liên kết với não về ngôn ngữ đó. <br>
-Thực hành liên tục và không ngừng nghỉ, đó là mấu chốt để giỏi bất cứ ngoại ngữ nào
+ Thực hành liên tục và không ngừng nghỉ, đó là mấu chốt để giỏi bất cứ ngoại ngữ nào
 
 ### 2. Chọn phương pháp thực hành là quan trọng. <br>
 Mới học ko nên đọc các sách vở quá cao siêu phức tạp - lý do ko có nhiều thời gian, và trong các cuốn sách có rất nhiều từ ngữ và cấu trúc ko phải sử dụng đến trong đời thường. Khi bắt đầu học tiếng, nên đọc các tin tức trên nhật báo. Chúng chứa nhiều từ ngữ về các thông tin đang xảy ra hàng ngày, và được diễn đạt theo cách để bất cứ người dân cũng có thể hiểu.
