@@ -16,7 +16,7 @@ wo wohnst du? -> Ich wohne in Ho Chi Minh Stadt
 + what your job:<br>
 Was ist dein Beruf? -> Ich bin Programmiererin. 
 + what your language:<br>
-Welche Sprache sprichst du? -> Ich spreche Deutsch und English
+Welche Sprache sprichst du? -> Ich spreche Deutsch und Englisch
 + Do you speak German:<br>
 Sprichst du Deutsch? -> Ja, ich spreche Deutsch
 
